@@ -20,7 +20,7 @@ Motivated and detail-oriented junior front-end developer eager to create modern,
 - Wind Band Conductor
 
 # Project
-[Shop Bakery]()
+[Shop Bakery](https://github.com/OtpPopt/https---github.com-OtpPopt-GeniusTest.git)
 - Landing page for bakery shop
 - Technologies: HTML, SCSS (BEM), JavaScript
 
