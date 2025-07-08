@@ -1,0 +1,38 @@
+body {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: 16px;
+    color: #e2e8f0;
+    background-color: #0f172a;
+    line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: bold;
+
+}
+
+a {
+    color: #3366cc;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: #003366;
+    text-decoration: underline;
+}
+
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 16px;
+    width: 100%;
+    background: linear-gradient(180deg, rgba(15, 23, 42, 0) 0%, #0f172a 100%);
+}
