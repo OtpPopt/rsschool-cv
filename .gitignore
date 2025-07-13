@@ -1,0 +1,44 @@
+# Node.js залежності
+node_modules/
+
+# Кеші лінтерів
+.eslintcache
+.stylelintcache
+
+# Логи
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Операційна система
+.DS_Store
+Thumbs.db
+
+# IDE/редактори
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Тестові результати
+coverage/
+*.lcov
+
+# Сервісні файли
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Кеші пакетних менеджерів
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Інші тимчасові файли
+*.log
+*.tmp
+*.swp
+*.bak
