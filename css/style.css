@@ -235,12 +235,16 @@ footer {
     justify-content: space-around;
     align-items: center;
     margin-top: 20px;
-        flex-grow: 1;
+    flex-grow: 1;
     background: linear-gradient(360deg, rgb(81 65 85 / 90%) 0%, #0f172a 100%);
-        overflow: hidden;
+    overflow: hidden;
 }
 
 .logo {
-width: 100px;
+    width: 100px;
     height: auto;
+}
+
+.logo-link {
+    all: revert;
 }
